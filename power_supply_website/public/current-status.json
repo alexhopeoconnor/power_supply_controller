@@ -1,0 +1,6 @@
+{
+    "version": "%VERSION%",
+    "device_name": "%DEVICE_NAME%",
+    "current_in": "%CURRENT_IN%",
+    "current_out": "%CURRENT_OUT%"
+}
